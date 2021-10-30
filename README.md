@@ -6,7 +6,11 @@ My motivation for this project is to develop my Python programming skills throug
 while also having fun (hopefully) beating my friends in Premier League Fantasy!
 
 Credits given to the following sources I've used in my project:
+
 web scraping: https://chmartin.github.io/2019/02/18/EPL-History-Scraping.html
+
 player stats: https://fbref.com/en/comps/9/stats/Premier-League-Stats
+
 web scraping using FPL API: https://towardsdatascience.com/fantasy-premier-league-value-analysis-python-tutorial-using-the-fpl-api-8031edfe9910
+
 FPL API: https://fantasy.premierleague.com/api/bootstrap-static/
