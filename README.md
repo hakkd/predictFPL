@@ -1,5 +1,5 @@
 # FPL_analytics
-Fantasy Premier League player and team stats analysis
+Fantasy Premier League player performance analysis and prediction.
 This project aims to gather English Premier League Fantasy data from multiple web sources using Python. 
 The data will be used to perform analyses, compare player stats and make informed decisions regarding FPL player selection for my team.
 My motivation for this project is to develop my Python programming skills through a project that is relevant to me, 
