@@ -14,7 +14,3 @@ player stats: https://fbref.com/en/comps/9/stats/Premier-League-Stats
 web scraping using FPL API: https://towardsdatascience.com/fantasy-premier-league-value-analysis-python-tutorial-using-the-fpl-api-8031edfe9910
 
 FPL API: https://fantasy.premierleague.com/api/bootstrap-static/
-
-Setup:
-- run 'conda env create -f environment.yaml'
-- run 'conda activate 
